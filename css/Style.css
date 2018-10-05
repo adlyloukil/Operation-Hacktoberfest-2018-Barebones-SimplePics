@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: white;
 }
 h1 {
     color: white;
@@ -8,4 +8,13 @@ h1 {
 p {
     font-family: verdana;
     font-size: 20px;
+}
+
+.banner {
+    background-color: black;
+    color: white;
+    width: 1080px;
+    height: 453px;
+    margin-left: auto;
+    margin-right: auto;
 }
