@@ -16,3 +16,8 @@ body {
     clear: both;
     display: table;
 }
+.box{
+    margin: 50px;
+    padding: 70px;
+    border: 1px solid black;
+}
