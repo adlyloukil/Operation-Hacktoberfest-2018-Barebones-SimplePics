@@ -1,5 +1,5 @@
-body {
-    background-color: #ffff;
+body { 
+    background-color: white; 
 }
 h1 {
     color: white;
@@ -8,4 +8,30 @@ h1 {
 p {
     font-family: verdana;
     font-size: 20px;
+}
+
+.banner {
+    background-color: black;
+    color: white;
+    width: 1080px;
+    height: 453px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pics-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pics-grid .cell{
+    display: block;
+    flex-grow: 1; 
+    width: 33.3%;
+}
+
+
+.pics-grid .cell img{
+    width: 100%;
+    height: auto;
 }
