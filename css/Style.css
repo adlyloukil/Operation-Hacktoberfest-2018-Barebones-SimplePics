@@ -9,9 +9,19 @@ body {
     width: 33.33%;
     padding: 5px;
 }
-.row, .col{
-	padding: 0 !important;
+
+p {
+    font-family: verdana;
+    font-size: 20px;
 }
+
+.banner {
+    width: 100%;
+    max-width: 1080px;
+    margin: auto;
+    display: block;
+}
+
 /* Clearfix (clear floats) */
 .row::after {
     content: "";
