@@ -4,6 +4,13 @@
 body {
     background-color: #ffffff;
 }
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    color: #778899;
+    text-align: center;
+    margin: 30px 0;
+}
 .column {
     float: left;
     width: 33.33%;
