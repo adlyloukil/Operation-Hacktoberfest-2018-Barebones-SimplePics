@@ -3,6 +3,9 @@
 }
 body {
   background-color: #ffffff;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  height: 100vh;
 }
 /*  */
 img {
