@@ -2,7 +2,7 @@
 ## Created during Hacktoberfest 2018
 ### Task was to create a single landing Page with 9 images a title and a white background
 
-![Screenshot of repository progress](https://user-images.githubusercontent.com/22683645/46754953-c3291400-ccbb-11e8-8c18-8729ea01f618.PNG)
+[![Screenshot of repository progress](https://user-images.githubusercontent.com/22683645/46754953-c3291400-ccbb-11e8-8c18-8729ea01f618.PNG)](https://github.com/adlyloukil/Hacktoberfest-2018-Operation-Barebones-SimplePics)
 
  * [css](./css)
    * [Style.css](./css/Style.css)
