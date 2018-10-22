@@ -20,6 +20,10 @@ img {
   height: 300px;
 }
 
+.header-img.img-fluid {
+  cursor: default;
+}
+
 .img-fluid {
   border-radius: 15px;
   cursor: pointer;
