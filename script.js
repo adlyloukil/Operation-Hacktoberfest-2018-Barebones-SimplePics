@@ -11,6 +11,8 @@ let imagesLength = img.length;
 
 for (i = 0; i < imagesLength; i++) {
   img[i].onclick = function() {
+    if (this.classList.contains("header-img"))
+      return false;
     modal.style.display = "block";
     modalImg.src = this.src;
     document.querySelector("body").style.overflow = "hidden";
