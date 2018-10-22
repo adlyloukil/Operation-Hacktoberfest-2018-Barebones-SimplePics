@@ -67,6 +67,18 @@ img {
   -webkit-user-select: none; /* Chrome/Safari */
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* IE10+ */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transform-origin: -25% -25%;
+  -moz-transform-origin: -25% -25%;
+  -ms-transform-origin: -25% -25%;
+  -o-transform-origin: -25% -25%;
+  transform-origin: -25% -25%;
 }
 
 /* Caption of Modal Image */
